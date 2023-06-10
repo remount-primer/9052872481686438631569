@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367817764773",
+    "project_id": "bansos-pkh-online",
+    "storage_bucket": "bansos-pkh-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367817764773:android:879cd3087042ecd07d824c",
+        "android_client_info": {
+          "package_name": "com.putriayu.bansos.pkh.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367817764773-s6gl9tu17sdn53694b9ngblu84k6lcet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjvqhnVPrx4Fy9y9fB8rwk9-ado1XWALA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367817764773-s6gl9tu17sdn53694b9ngblu84k6lcet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
