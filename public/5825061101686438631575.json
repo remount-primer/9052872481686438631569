@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256359277210",
+    "project_id": "vpn-guide-d8b9d",
+    "storage_bucket": "vpn-guide-d8b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256359277210:android:cbadbac3dd714dfd0d7523",
+        "android_client_info": {
+          "package_name": "com.putriayu.vpn.guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256359277210-dte2ejpqtedbhd0ut172v61453d5g8h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANrseSy2ITPTfUX1KxIGis3gAl9P2qUsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256359277210-dte2ejpqtedbhd0ut172v61453d5g8h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
