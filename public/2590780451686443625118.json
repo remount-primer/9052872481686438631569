@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929956086733",
+    "project_id": "capcut-jedag-jedug",
+    "storage_bucket": "capcut-jedag-jedug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929956086733:android:88e6d25e571d139e7fba84",
+        "android_client_info": {
+          "package_name": "com.putriayu.capcut.jedagjedug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929956086733-kv9nh6troacmflh0dl5qfru2p41ntp4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4o4HLQvuHT3kmqlHkcbp0LwKebQppLOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929956086733-kv9nh6troacmflh0dl5qfru2p41ntp4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
